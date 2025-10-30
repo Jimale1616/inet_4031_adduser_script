@@ -4,7 +4,6 @@
 # Jimale Mohamed
 # 10/30/2025
 # 10/30/2025
-
 """
 INET4031 - Automated user creation script
 
@@ -64,4 +63,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
